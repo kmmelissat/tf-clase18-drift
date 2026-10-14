@@ -1,0 +1,5 @@
+subscription_id            = "ID_DE_LA_SUSCRIPCION"
+location                   = "mexicocentral"
+resource_group_name        = "rg-devops-drift-IDENTIFICADOR"
+import_resource_group_name = "rg-devops-import-IDENTIFICADOR"
+storage_account_name       = "stdevopsdriftIDENTIFICADOR"
